@@ -37,11 +37,11 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Strategic value
   * Threats and scopes
   * Quantifying Loss
-  * **Homework 1**
+  * **Homework: Risk and Loss**
   * Decision Trees
   * Risk attitude and utility theory
   * Risk Prioritization
-  * **Homework 2**
+  * **Homework: Decision Trees**
 
 * High Level Policy Creation
   * Business and governance requirement gathering
@@ -64,7 +64,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Aligning Policy with regulations and standards
   * Maturity Model
 
-* **FISMA Certification Project**
+* **Project: Business Creation and Product FISMA Certification**
   * Assess business security program maturity
   * Identify business assets
   * Select Security Controls
@@ -74,6 +74,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Propositional and First-order logic
   * Representing policies in first-order logic
   * Stating non-compliance formally
+  * **Homework: Formal Logic**
   * State-based temporal models
   * Covert channels
   * Access Control Matrix
@@ -86,17 +87,11 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Composable informal and formal policies
   * Detecting policy constraint violations
 
-* Cloud and Web Service Applications
-  * Outsourcing functionality, data, and Risk
-  * Service Level Agreements
-  * Monitoring Security Metrics and Quality of Service
-  * Introduction to FedRamp
-
 * Security Awareness and Training
   * Constructing an enterprise-wide training plan
   * Protecting against social engineering
   * Protecting against “Post-it note” style problems
-  * **Security Awareness and training project**
+  * **Project: Security Awareness and training plan**
 
 * **Final Exam**
 
