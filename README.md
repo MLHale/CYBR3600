@@ -17,7 +17,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 ### Texts
 * Information Security Governance by Krag Brotby (ISBN: 978-0470131183)
-  * Book is available free online via the Library: http://onlinelibrary.wiley.com.leo.lib.unomaha.edu/book/10.1002/9780470476017
+  * Book is available free online via the [Library](http://onlinelibrary.wiley.com.leo.lib.unomaha.edu/book/10.1002/9780470476017)
 * [NIST SP 800-53](https://nvd.nist.gov/800-53)
 * [NIST SP 800-37](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r1.pdf)
 * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)
@@ -26,76 +26,79 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 
 
-## Class Topics
+## Tentative Class Topics and course overview
 * Introduction and Governance
+  * Icebreaker
   * Information Security Governance
-  * Risk Management
+  * Intro to Risk Management
 
 * Risk and Strategic Decision making
- * Asset Identification
- * Strategic value
- * Threats and scopes
- * Quantifying Loss
- * Decision Trees
- * Risk attitude and utility theory
- * Risk Prioritization
+  * Asset Identification
+  * Strategic value
+  * Threats and scopes
+  * Quantifying Loss
+  * **Homework 1**
+  * Decision Trees
+  * Risk attitude and utility theory
+  * Risk Prioritization
+  * **Homework 2**
 
 * High Level Policy Creation
- * Business and governance requirement gathering
- * Scopes and functions of different policy documents
- * Internal consistency and style
- * Defining Roles and Responsibilities
- * Policy metrics and measurements
- * Policy concerns by security domain
+  * Business and governance requirement gathering
+  * Scopes and functions of different policy documents
+  * Internal consistency and style
+  * Defining Roles and Responsibilities
+  * Policy metrics and measurements
+  * Policy concerns by security domain
 
 * U.S. Compliance Laws and Security Controls
- * Overview of HIPAA, GLBA, SOX, FERPA
- * Focus on FISMA
- * Security Control standards
- * NIST SP 800-37 / NIST SP 800-53 / FIPS 199
- * NIST SP 800-66
- * PCI DSS
- * COBIT 5
- * ISO 27002
- * Common Criteria
- * Aligning Policy with regulations and standards
- * Maturity Model
+  * Overview of HIPAA, GLBA, SOX, FERPA
+  * Focus on FISMA
+  * Security Control standards
+  * NIST SP 800-37 / NIST SP 800-53 / FIPS 199
+  * NIST SP 800-66
+  * PCI DSS
+  * COBIT 5
+  * ISO 27002
+  * Common Criteria
+  * Aligning Policy with regulations and standards
+  * Maturity Model
 
-* FISMA Certification Project (Labs 2-3)
- * Assess business security program maturity
- * Identify business assets
- * Select Security Controls
- * Assess information systems against selected controls
+* **FISMA Certification Project**
+  * Assess business security program maturity
+  * Identify business assets
+  * Select Security Controls
+  * Assess information systems against selected controls
 
 * Formal methods for policy representation and certification
- * Propositional and First-order logic
- * Representing policies in first-order logic
- * Stating non-compliance formally
- * State-based temporal models
- * Covert channels
- * Access Control Matrix
+  * Propositional and First-order logic
+  * Representing policies in first-order logic
+  * Stating non-compliance formally
+  * State-based temporal models
+  * Covert channels
+  * Access Control Matrix
 
-* Certification Project Presentations
- * Student presentations
+* **Certification Project Presentations**
 
 * Information Flow Control & Policy Composition
- * Multi-domain policies
- * Dealing with third parties
- * Composable informal and formal policies
- * Detecting policy constraint violations
+  * Multi-domain policies
+  * Dealing with third parties
+  * Composable informal and formal policies
+  * Detecting policy constraint violations
 
 * Cloud and Web Service Applications
- * Outsourcing functionality, data, and Risk
- * Service Level Agreements
- * Monitoring Security Metrics and Quality of Service
- * Introduction to FedRamp
+  * Outsourcing functionality, data, and Risk
+  * Service Level Agreements
+  * Monitoring Security Metrics and Quality of Service
+  * Introduction to FedRamp
 
 * Security Awareness and Training
- * Constructing an enterprise-wide training plan
- * Protecting against social engineering
- * Protecting against “Post-it note” style problems
- * `Security Awareness and training project`
+  * Constructing an enterprise-wide training plan
+  * Protecting against social engineering
+  * Protecting against “Post-it note” style problems
+  * **Security Awareness and training project**
 
+* **Final Exam**
 
 
 ## Syllabus
@@ -107,13 +110,14 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 
 ### Course Abstract
-Web applications are pervasive fixtures of 21st century culture. Web application security is an inclusive, amorphous, term that spans application level security, i.e. ensuring high level code cannot be exploited, server level security, i.e. ensuring server resources such as databases and file systems cannot be exploited, and network security, i.e. ensuring unauthorized parties cannot access a server or tamper with user sessions. The Secure Web Application Development course will mix traditional lecture with hands-on labs to expose students to common web development activities and cross-cut different web application security concepts. After the class, students will be proficient with web application security from the ground up, including the ability to securely deploy and configure a web server (e.g. apache or node.js), select and install a web development framework to best suit application and security requirements (e.g. Django, Ember, or both), and develop secure application architectures and code using at least one web framework. Students will also leave with a basic understanding of core web protocols including TCP/IP, SSL, and HTTP/HTTPs, web development tools (e.g. chrome dev toolkit), unit testing (e.g. QUnit), and best practices for accepting, parsing, and storing user input.
+Policy is an integral element of Information Security within and across organizations. This course will cover the development of security policies and procedures at an organizational level, how such policies are intertwined with regulatory compliance necessities, and the legal, ethical, and financial implications of policy. Students will leave with the ability to go into an organization and understand the basis for and effect of IT policies. Students will also be able to apply policies to information systems and cover human factors such as constructing a security awareness campaigns to satisfy operational security controls and prevent attacks such as phishing and spear phishing.
+
 
 ### Grading Breakdown (due dates are tentative)
  * (10%) Class participation
- * (10%) Quizzes
- * (40%) Homework / Projects
- * (40%) Exams
+ * (40%) Homework & Projects
+ * (20%) Quizzes
+ * (30%) Final Exam
 
 Each project will have a specific grading rubric that includes the core requirements for the project (i.e. what the application must do), any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. At least one of the projects will include a presentation component to be presented in class on the project due date.  
 
