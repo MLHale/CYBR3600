@@ -27,7 +27,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 
 ## Tentative Class Topics and course overview
-* Introduction and Governance
+* Introduction and Governance ([Lecture 1 Slides](./slides/lecture1.pdf)
   * Icebreaker
   * Information Security Governance
   * Intro to Risk Management
