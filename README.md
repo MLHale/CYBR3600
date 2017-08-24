@@ -37,7 +37,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Strategic value
   * Threats and scopes
   * Quantifying Loss
-  * **Homework: Risk and Loss**
+  * [**Homework: Risk and Loss**](./homework/iasc3600-homework1.pdf)
   * Decision Trees
   * Risk attitude and utility theory
   * Risk Prioritization
