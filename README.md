@@ -32,7 +32,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Information Security Governance
   * Intro to Risk Management
 
-* Risk and Strategic Decision making
+* Risk and Strategic Decision making ([Lecture 2 Slides](./slides/lecture2.pdf))
   * Asset Identification
   * Strategic value
   * Threats and scopes
