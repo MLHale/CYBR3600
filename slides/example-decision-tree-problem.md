@@ -1,0 +1,8 @@
+## Risk Mitigation Example problem
+You work for an information security shop at a local manufacturing company. You discover a flaw in the production line management system software (The system that keeps the conveyer belts moving). You think that attackers could exploit a vulnerability in a library the software uses to potentially take over the conveyer belt and send it arbitrary commands. You guess, based on a report you find from a security reporting company that this exploit has been found and used in about 80% of systems where it was present. The production line at the company you work for produces $100,000 worth of goods from 8am to 8pm each day. Overnight the production line gets shut down.
+
+After researching the vulnerability, you've consulted with your in-house development team and a trusted third-party that has dealt with this problem before. The third party tells you they can update your production line with entirely new software that mitigates this problem and is better overall for $150,000. Your in-house team says they can build the same software. They say they can build it for $40,000, but in the past their estimates have been way off. They end up on-budget about 20% of the time. About half the time their estimate is off by a factor of 1.75 (i.e. it costs 175% more than they expect). Other times (about 30% of the time) they are WAY off and it costs 7.5 times more than it should (i.e. 750% of their estimate).
+
+Lastly, the dev team also says they can try to patch it and it would only cost 1,000. They aren't sure if the patch will work or not. One engineer you talk to figures its about an even chance that it will mitgate the vulnerability or not.
+
+What do you do?
