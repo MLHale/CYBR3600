@@ -41,6 +41,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Threats and scopes
   * Quantifying Loss
   * [**Homework: Risk and Loss**](./homework/iasc3600-homework1.pdf)
+  * [Quiz 1: Risk and Governance](https://unomaha.az1.qualtrics.com/jfe/form/SV_dd0nvHadau27UeF)
   * Decision Trees
   * Risk attitude and utility theory
   * Risk Prioritization
