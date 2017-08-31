@@ -44,6 +44,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Decision Trees
   * Risk attitude and utility theory
   * Risk Prioritization
+  * [Example Decision Tree problem](./slides/example-decision-tree-problem.md)
   * [**Homework: Decision Trees**](./homework/iasc3600-homework2.pdf)
 
 * High Level Policy Creation
