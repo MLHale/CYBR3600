@@ -3,6 +3,6 @@ You work for an information security shop at a local manufacturing company. You 
 
 After researching the vulnerability, you've consulted with your in-house development team and a trusted third-party that has dealt with this problem before. The third party tells you they can update your production line with entirely new software that mitigates this problem and is better overall for $150,000. Your in-house team says they can build the same software. They say they can build it for $40,000, but in the past their estimates have been way off. They end up on-budget about 20% of the time. About half the time their estimate is off by a factor of 1.75 (i.e. it costs 175% more than they expect). Other times (about 30% of the time) they are WAY off and it costs 7.5 times more than it should (i.e. 750% of their estimate).
 
-Lastly, the dev team also says they can try to patch it and it would only cost 1,000. They aren't sure if the patch will work or not. One engineer you talk to figures its about an even chance that it will mitgate the vulnerability or not.
+Lastly, the dev team also says they can try to patch it and it would only cost 1,000. They aren't sure if the patch will work or not. One engineer you talk to figures its about an even chance that it will mitgate the vulnerability as not.
 
-What do you do?
+What do you do? Assume a risk neutral (expected cost) perspective and support your decision with a cost/benefit analysis in the form of a decision tree.
