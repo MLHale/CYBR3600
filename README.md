@@ -48,7 +48,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * [Example Decision Tree problem](./slides/example-decision-tree-problem.md)
   * [**Homework: Decision Trees**](./homework/iasc3600-homework2.pdf)
 
-* High Level Policy Creation
+* High Level Policy Creation ([Lecture 4 Slides](./slides/lecture4.pdf))
   * Business and governance requirement gathering
   * Scopes and functions of different policy documents
   * Internal consistency and style
