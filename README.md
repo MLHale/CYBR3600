@@ -47,7 +47,9 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Risk Prioritization
   * [Example Decision Tree problem](./slides/example-decision-tree-problem.md)
   * [**Homework: Decision Trees**](./homework/iasc3600-homework2.pdf)
-
+  * [Extra practice problems](./slides/extra-practice-atle-decision-trees.md)
+  * [Quiz 2: TBA]()
+  
 * High Level Policy Creation ([Lecture 4 Slides](./slides/lecture4.pdf))
   * Business and governance requirement gathering
   * Scopes and functions of different policy documents
