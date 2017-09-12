@@ -56,9 +56,10 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Internal consistency and style
   * Defining Roles and Responsibilities
   * Policy metrics and measurements
-  * Policy concerns by security domain
 
-* U.S. Compliance Laws and Security Controls
+* U.S. Compliance Laws and Security Controls ([Lecture 5 Part 1 Slides](./slides/lecture5-1.pdf))
+  * Policy concerns by security domain
+  * Aligning Policy with regulations and standards
   * Overview of HIPAA, GLBA, SOX, FERPA
   * Focus on FISMA
   * Security Control standards
@@ -68,7 +69,6 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * COBIT 5
   * ISO 27002
   * Common Criteria
-  * Aligning Policy with regulations and standards
   * Maturity Model
 
 * **Project: Business Creation and Product FISMA Certification**
