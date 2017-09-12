@@ -23,4 +23,5 @@ ATLE<sub>msg</sub> = $2.5M
 
 b) - d)  
 ![1](practice-solution1.png)  
-![2](practice-solution2.png)
+![2](practice-solution2.png)   
+> Note: option a) should be 6.25M - there is a small math error there.
