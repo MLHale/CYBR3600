@@ -48,7 +48,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * [Example Decision Tree problem](./slides/example-decision-tree-problem.md)
   * [**Homework: Decision Trees**](./homework/iasc3600-homework2.pdf)
   * [Extra practice problems](./slides/extra-practice-atle-decision-trees.md)
-  * [Quiz 2: TBA]()
+  * [Quiz 2: Probabilistic Risk and Decision Trees](https://unomaha.az1.qualtrics.com/jfe/form/SV_9B260NG5oRPNxqZ)
   
 * High Level Policy Creation ([Lecture 4 Slides](./slides/lecture4.pdf))
   * Business and governance requirement gathering
