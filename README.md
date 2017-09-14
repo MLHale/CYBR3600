@@ -58,13 +58,16 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Policy metrics and measurements
   * [Homework: Policy review and Analysis](./homework/projects/project-1.md)
 
-* U.S. Compliance Laws and Security Controls ([Lecture 5 Part 1 Slides](./slides/lecture5-1.pdf))
+* U.S. Compliance Laws and Security Controls ([Lecture 5 Part 1 Slides](./slides/lecture5-1.pdf), [Lecture 5 Part 2 Slides](./slides/lecture5-1.pdf))
   * Policy concerns by security domain
   * Aligning Policy with regulations and standards
   * Overview of HIPAA, GLBA, SOX, FERPA
-  * Focus on FISMA
+  * Focus on [FISMA](http://csrc.nist.gov/drivers/documents/FISMA-final.pdf)
   * Security Control standards
-  * NIST SP 800-37 / NIST SP 800-53 / FIPS 199
+   * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)  
+   * [FIPS 200](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf)
+   * NIST SP 800-37  
+   * [NIST SP 800-53 ](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)
   * NIST SP 800-66
   * PCI DSS
   * COBIT 5
