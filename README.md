@@ -35,7 +35,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Information Security Governance
   * Intro to Risk Management
 
-* Risk and Strategic Decision making ([Lecture 2 Slides](./slides/lecture2.pdf), [Lecture 3 Slides](./slides/lecture3.pdf)) 
+* Risk and Strategic Decision making ([Lecture 2 Slides](./slides/lecture2.pdf), [Lecture 3 Slides](./slides/lecture3.pdf))
   * Asset Identification
   * Strategic value
   * Threats and scopes
@@ -49,13 +49,14 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * [**Homework: Decision Trees**](./homework/iasc3600-homework2.pdf)
   * [Extra practice problems](./slides/extra-practice-atle-decision-trees.md)
   * [Quiz 2: Probabilistic Risk and Decision Trees](https://unomaha.az1.qualtrics.com/jfe/form/SV_9B260NG5oRPNxqZ)
-  
+
 * High Level Policy Creation ([Lecture 4 Slides](./slides/lecture4.pdf))
   * Business and governance requirement gathering
   * Scopes and functions of different policy documents
   * Internal consistency and style
   * Defining Roles and Responsibilities
   * Policy metrics and measurements
+  * [Homework: Policy review and Analysis](./homework/projects/project-1.md)
 
 * U.S. Compliance Laws and Security Controls ([Lecture 5 Part 1 Slides](./slides/lecture5-1.pdf))
   * Policy concerns by security domain
