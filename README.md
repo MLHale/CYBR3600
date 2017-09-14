@@ -64,10 +64,10 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Overview of HIPAA, GLBA, SOX, FERPA
   * Focus on [FISMA](http://csrc.nist.gov/drivers/documents/FISMA-final.pdf)
   * Security Control standards
-   * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)  
-   * [FIPS 200](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf)
-   * NIST SP 800-37  
-   * [NIST SP 800-53 ](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)
+    * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)  
+    * [FIPS 200](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf)
+    * NIST SP 800-37  
+    * [NIST SP 800-53 ](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)
   * NIST SP 800-66
   * PCI DSS
   * COBIT 5
