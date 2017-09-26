@@ -46,7 +46,7 @@ The `System Information` section of your report should contain the following:
 1. `Name of Product` - The name of the software you are examining and a link to where the software documentation (e.g. Github repository).
 2. `Usefulness` - Identify how your selected company might use this software.
 3. `Related Assets` - Identify relevant company assets that this software might interact with (E.g. will it use PII, intellectual property, etc). Be specific - don't list 'information'. Example: my product might be a point-of-sale system like [Shopkeep](https://www.shopkeep.com/) and I might be looking at a retail chain. In this case, assets might be customer data such as name, address, credit card data, etc.
-4. `Critical Assessment` - Use FIPS 199/200 to identify a criticality for the system based on your strategic objectives above and the use the company might have for the system, and the importance of the related assets. You should list the FIPS-specified tuple for each aspect of criticality.
+4. `Criticalality Assessment` - Use FIPS 199/200 to identify a criticality for the system based on your strategic objectives above and the use the company might have for the system, and the importance of the related assets. You should list the FIPS-specified tuple for each aspect of criticality.
 
 ### System Assessment
 #### Task
