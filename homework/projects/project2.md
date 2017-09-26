@@ -2,7 +2,7 @@
 Due Date: Tue. 10/17/17 by Class time (1:30PM)  
 Class Lab Time: Tue. 9/26/17, Tue. 10/3/17
 
-## Task
+## Overview
 In this project you will pick a company, identify its strategic goals and maturity, and then step through the FISMA/NIST certification process to examine a system for new acquisition. You will receive (lab) time in-class to work on your project and ask any questions you may have. 
 
 As part of this assignment, you will *first pick a company (or create a fictional one)* and then *prepare a document* with the following structure:
