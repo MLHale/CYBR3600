@@ -1,5 +1,5 @@
 # CYBR3600 Homework 4 (Project 2): NIST / FISMA Compliance Project
-Due Date: Tue. 10/17/17 by Class time (1:30PM)
+Due Date: Tue. 10/17/17 by Class time (1:30PM)  
 Class Lab Time: Tue. 9/26/17, Tue. 10/3/17
 
 ## Task
