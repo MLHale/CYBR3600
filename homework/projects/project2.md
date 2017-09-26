@@ -60,7 +60,7 @@ The `System Assessment & Certification Recommendations` section should be struct
 
 Your table should be structured as follows. Use these exact headers.
 
-| Control in baseline | Compliant	| Confidence | Control Text	| Method of Assesmsent | Compliance Evidence |
+| Control in baseline | Compliant	| Confidence | Control Text	| Method of Assessment | Compliance Evidence |
 |---------------------|-----------|------------|--------------|--------------|--------------------|
 | The control identifier | Yes/No/Partially | Scale 1 (not confident) to 5 (confident) based on how confident you are in your compliance assessment | The actual control text for the control identifier | The specific process you followed to measure/gauge compliance | The specific evidence you found by conducting the method of assessment that supports your claim |
 
@@ -69,7 +69,7 @@ Your table should be structured as follows. Use these exact headers.
 | Control in baseline | Compliant	| Confidence | Control Text	| Method of Assessment | Compliance Evidence |
 |---------------------|-----------|------------|--------------|--------------|--------------------|
 AU-2.a | No | 5 | The organization Determines that the information system is capable of auditing the following events: [Assignment: organization-defined auditable events] |I examined the software documentation and source code to identify audit functionality in the app. |	There was no audit component present, so the system is by default not able to capture the events.|
-SC-8(3) |	Yes| 3 |The information system implements cryptographic mechanisms to protect message externals unless otherwise protected by [Assignment: organization-defined alternative physical safeguards].	| I checked the app to see if it uses TLS/SSL and to ensure other system users could not view traffic that was not their own. |	The webservice uses TLS/SSL (https). Personnel messages are protected by the functionality in messager.php and the audit system (code files in /var/www/html/audit). I could only access headers and routing information for messages sent to me, messages sent by me to target users, or if I was using a system admin account.
+SC-8(3) |	Yes| 3 |The information system implements cryptographic mechanisms to protect message externals unless otherwise protected by [Assignment: organization-defined alternative physical safeguards].	| I checked the app to see if it uses TLS/SSL and to ensure other system users could not view traffic that was not their own. |	The webservice uses TLS/SSL (https). Personnel messages are protected by the functionality in messenger.php and the audit system (code files in /var/www/html/audit). I could only access headers and routing information for messages sent to me, messages sent by me to target users, or if I was using a system admin account.
 
 ## Submission
 Prepare a report, of type .md, .pdf, .doc, .docx only, that contains the listed sections above in the format specified. Submit your report to Canvas by the due date.
