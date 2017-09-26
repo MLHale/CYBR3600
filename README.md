@@ -66,16 +66,17 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Security Control standards
     * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)  
     * [FIPS 200](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf)
-    * NIST SP 800-37  
-    * [NIST SP 800-53 ](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)
-  * NIST SP 800-66
+    * [NIST SP 800-37 ](https://csrc.nist.gov/publications/detail/sp/800-37/rev-1/final)
+    * [NIST SP 800-53 ](https://csrc.nist.gov/publications/detail/sp/800-53/rev-4/final)
+    * [National Vulnerability Database resources](https://nvd.nist.gov/other)
+  * [NIST SP 800-66](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-66r1.pdf)
   * PCI DSS
   * COBIT 5
   * ISO 27002
   * Common Criteria
   * Maturity Model
 
-* **Project: Business Creation and Product FISMA Certification**
+* [**Project: Business Creation and Product FISMA Certification**](./homework/projects/project2.md)
   * Assess business security program maturity
   * Identify business assets
   * Select Security Controls
