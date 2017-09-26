@@ -62,7 +62,7 @@ Your table should be structured as follows. Use these exact headers.
 
 | Control in baseline | Compliant	| Confidence | Control Text	| Method of Assessment | Compliance Evidence |
 |---------------------|-----------|------------|--------------|--------------|--------------------|
-| The control identifier | Yes/No/Partially | Scale 1 (not confident) to 5 (confident) based on how confident you are in your compliance assessment | The actual control text for the control identifier | The specific process you followed to measure/gauge compliance | The specific evidence you found by conducting the method of assessment that supports your claim |
+| The control identifier | Yes/No/Partially | Scale 1 (not confident) to 5 (confident) based on how confident you are in your compliance assessment | The actual control text for the control identifier | The specific process you followed to measure/gauge compliance. Considering using checklists from NVD (https://nvd.nist.gov/ncp/repository) if applicable. | The specific evidence you found by conducting the method of assessment that supports your claim |
 
 *Example:*
 
