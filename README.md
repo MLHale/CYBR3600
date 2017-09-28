@@ -70,6 +70,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
     * [NIST SP 800-53 ](https://csrc.nist.gov/publications/detail/sp/800-53/rev-4/final)
     * [National Vulnerability Database resources](https://nvd.nist.gov/other)
   * [NIST SP 800-66](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-66r1.pdf)
+  * [Quiz 3](https://unomaha.az1.qualtrics.com/jfe/form/SV_0oz0NLR5xXr7ZjL)
   * PCI DSS
   * COBIT 5
   * ISO 27002
