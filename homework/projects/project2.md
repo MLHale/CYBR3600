@@ -1,5 +1,5 @@
 # CYBR3600 Homework 4 (Project 2): NIST / FISMA Compliance Project
-Due Date: Tue. 10/17/17 by Class time (1:30PM)  
+Due Date: Thursday 10/19/17 by Class time (1:30PM)  
 Class Lab Time: Tue. 9/26/17, Tue. 10/3/17
 
 ## Overview
@@ -73,3 +73,31 @@ SC-8(3) |	Yes| 3 |The information system implements cryptographic mechanisms to 
 
 ## Submission
 Prepare a report, of type .md, .pdf, .doc, .docx only, that contains the listed sections above in the format specified. Submit your report to Canvas by the due date.
+
+## Presentation
+You will also prepare and present the findings of your project in a brief 5 min presentation. To keep things moving, you should structure your presentation around answering the following questions:
+
+1. What company did you choose?
+  * Briefly address: What does your company do, i.e. what are their strategic objectives and goals?
+  * Briefly address: How mature is the company in terms of information security? What resources (generally speaking) did you use to determine this maturity?
+2. What system did you choose? 
+  * Briefly answer, what does it do? I.e. what functions/services does it offer?
+  * How was your system categorized according to FIPS 199/200?
+  * Which Security control baseline did you pick for the system?
+3. What did you assess?
+  * Which specific controls did you pick from the baseline?
+  * How did you assess them against the system you choose?
+  * What were your findings? Was the system compliant or non compliant with the controls?
+  
+### Presentation Grading Criteria
+Your presentation will be graded using the following Rubric
+
+| | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
+|---|---|---|---|
+| Enthusiasm and clarity | Presenter exhibits enthusiasm about the work and speaks clearly and confidently. | Some issues with clarity and enthusiasm. | Presenter has mumbles, is not clear, and/or does not demonstrate any enthusism. |
+| Understanding | Presenter understands all aspects presented about the project. | Some gaps in understanding when questioned by audience or routinely looks at team slides |Poor understanding of project. |
+| Relevant information | Engaging relevant information is presented about the project. | Valuable information is presented but there are multiple tangents. | Little valuable information is presented |
+| Quick overview of Company | Overall company information is succinct and informative. | Too much time is spent on company details or important details are lacking. | Way too much time is spent on company info or details are not covered at all. |
+| Overview of System details| System for assessment is adequately described. | Some details regarding the system are missing or unclear or far too much time is spent on discussing the system. | Way to much time spent or no coverage at all. |
+| Assessment | Control assessments procedures pursued are clearly defined and discussed. | Assessment information is insufficient. | Few or no details of assessment are discussed. |
+| Results / Findings | The findings of assessment are clearly discussed. Results identify whether or not the system or product are compliant with the security controls and any other relevant outcomes. | Results are missing or unsupported by the work conducted. | Few or no results are presented. |
