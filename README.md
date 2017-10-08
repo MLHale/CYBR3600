@@ -83,7 +83,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Select Security Controls
   * Assess information systems against selected controls
 
-* Formal methods for policy representation and certification
+* Formal methods for policy representation and certification ([Lecture 7 Slides](./slides/lecture7.pdf)
   * Propositional and First-order logic
   * Representing policies in first-order logic
   * Stating non-compliance formally
