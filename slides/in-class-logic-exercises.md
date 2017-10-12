@@ -19,7 +19,7 @@ Work as a group to:
 ## Exercise 2: Student Account non-repudiation policy
 Convert the following into logic, then state a violation case.
 
-*** Student account non-repudiation and logging***
+***Student account non-repudiation and logging***
 - All student account transactions must be logged and stored for 7 years.
 - Transaction logs must include, at a minimum, the time when the transaction occured, the location and name of the on-campus vendor where the transaction occured, the total cost of the transaction, and the id of the point of sale system that the transaction occurred on. 
 
