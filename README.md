@@ -88,7 +88,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Representing policies in first-order logic
   * Stating non-compliance formally
   * [In-class Logic Exercises](./slides/in-class-logic-exercises.md)
-  * **Homework: Formal Logic**
+  * [**Homework: Formal Logic**](./homework/logic-homework.md)
   * State-based temporal models
   * Covert channels
   * Access Control Matrix
