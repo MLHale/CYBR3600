@@ -31,7 +31,7 @@ Work as a group to:
 #### Hint 
 This one is much harder than the first one. Note that you can nest quantifiers. Also be sure to properly quantify all variables.
 
-## Exercise 3: Re-re-reverse
+## Exercise 3: "flip it and reverse it" (ti esrever dna ti pilf)
 
 ### Task
 Translate the following formal logic statement into natural language as it is stated formally AND as it might be listed in a real policy. Be explicit. What kind of policy category might this statement fit into? 
