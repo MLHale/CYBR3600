@@ -95,7 +95,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 * **Certification Project Presentations**
 
-* Information Flow Control & Policy Composition
+* Information Flow Control & Policy Composition ([Lecture 8 Slides](./slides/lecture8.pdf)
   * Multi-domain policies
   * Dealing with third parties
   * Composable informal and formal policies
