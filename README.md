@@ -1,11 +1,11 @@
 ### Table of contents
-[Online discussion area](#online-discussion-area)  
-[Location](#location)  
-[Supplies](#supplies)  
-[Projects](#projects)  
-[Class topics](#class-topics)  
-[Syllabus](#syllabus)  
-[License](#license)  
+[Online discussion area](#online-discussion-area)
+[Location](#location)
+[Supplies](#supplies)
+[Projects](#projects)
+[Class topics](#class-topics)
+[Syllabus](#syllabus)
+[License](#license)
 
 ## Viewing these materials
 The class materials are best viewed at [https://mlhale.github.io/CYBR3600/](https://mlhale.github.io/CYBR3600/)
@@ -64,7 +64,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Overview of HIPAA, GLBA, SOX, FERPA
   * Focus on [FISMA](http://csrc.nist.gov/drivers/documents/FISMA-final.pdf)
   * Security Control standards
-    * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)  
+    * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)
     * [FIPS 200](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf)
     * [NIST SP 800-37 ](https://csrc.nist.gov/publications/detail/sp/800-37/rev-1/final)
     * [NIST SP 800-53 ](https://csrc.nist.gov/publications/detail/sp/800-53/rev-4/final)
@@ -95,11 +95,12 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 * **Certification Project Presentations**
 
-* Information Flow Control & Policy Composition ([Lecture 8 Slides](./slides/lecture-8.pdf), [Lecture 9 Slides](./slides/lecture9.pdf))
+* Information Flow Control & Policy Composition ([Lecture 8 Slides](./slides/lecture-8.pdf), [Lecture 8 & 9 Slides](./slides/lecture9.pdf))
   * Multi-domain policies
   * Dealing with third parties
   * Composable informal and formal policies
   * Detecting policy constraint violations
+  * **[XACML Exercise/homework](./exercises/XACML.md)**
 
 * Security Awareness and Training
   * Constructing an enterprise-wide training plan
@@ -111,11 +112,11 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 
 ## Syllabus
-**Date/Time**: Tuesday/Thursday 1:30pm – 2:45pm  
-**Instructor**:  Dr. Hale  
-**Office**:  PKI 174-D, `(402) 554-3978`  
-**Office Hours**:  Open door policy, or by appointment  
-**E-mail**:  `mlhale@unomaha.edu`  
+**Date/Time**: Tuesday/Thursday 1:30pm – 2:45pm
+**Instructor**:  Dr. Hale
+**Office**:  PKI 174-D, `(402) 554-3978`
+**Office Hours**:  Open door policy, or by appointment
+**E-mail**:  `mlhale@unomaha.edu`
 
 
 ### Course Abstract
@@ -128,7 +129,7 @@ Policy is an integral element of Information Security within and across organiza
  * (20%) Quizzes
  * (30%) Final Exam
 
-Each project will have a specific grading rubric that includes the core requirements for the project (i.e. what the application must do), any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. At least one of the projects will include a presentation component to be presented in class on the project due date.  
+Each project will have a specific grading rubric that includes the core requirements for the project (i.e. what the application must do), any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. At least one of the projects will include a presentation component to be presented in class on the project due date.
 
 ### Attendance
 * Class Attendance: Attendance is highly recommended, there are a number of in-class participation measures, so if you miss class your grade may suffer.
@@ -162,12 +163,12 @@ The instructor may retain a copy of your exams (with names and any other identif
 
 In addition, the instructor retains the right to use any code or project artifacts developed in the course for pedagogy, research, or service learning purposes. Student web project code developed in the course may be used in future secure project development courses, by the instructor for research purposes, or by designated stakeholders.
 
-## License  
+## License
 Information Security Policy
 Copyright (C) 2017  Dr. Matthew L. Hale
 
 ### Lesson content
-Copyright (C) [Dr. Matthew Hale](http://faculty.ist.unomaha.edu/mhale/) 2017.  
+Copyright (C) [Dr. Matthew Hale](http://faculty.ist.unomaha.edu/mhale/) 2017.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This lesson</span> is licensed by the author under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
