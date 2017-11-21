@@ -11,7 +11,7 @@ You should install the Social Engineering Toolkit (SET), create a credential har
 ## Ethics note
 It is absolutely **not ok** to attack anyone for any reason. Using this tool for any purpose other than your own education and training is strictly prohibited by the policies of this course and University as well as local, state, and federal law. The purpose of the exercise is for you to learn about adversary tactics so that you can counter them through policy, education, and training.
 
-## Exercise 1 - Installing SET
+## Exercise 1 - Installing and running SET
 This part should be easy if you completed the XACML exercise.
 
 Type 
@@ -22,6 +22,20 @@ If you did not install docker before, you can do it now, or you can install SET 
 - Install Metasploit. see: https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers
 - Install the Social Engineering Toolkit. see https://github.com/trustedsec/social-engineer-toolkit
 http://www.computerweekly.com/tutorial/Social-Engineer-Toolkit-SET-tutorial-for-penetration-testers
+
+Once installed, you can invoke set from docker using the following command:
+```bash
+docker run -it -p 8888:80 mlhale/set bash
+```
+> Note if you are using docker toolbox, you must execute this from the docker-cli and then, using virtualbox, forward the port as you did in the XACML lesson.
+
+In the container then type:
+```bash
+setoolkit
+```
+Follow on screen options according to the exercise you are following. Each is coded by number.
+
+Those not using docker, may just do the latter from their local host terminal.
 
 ## Exercise 2 - Credential Harvesting
 This will show you one of the most common tools used by social engineers and malicious actors to dupe you into falling prey to attack.
