@@ -105,6 +105,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 * Security Awareness and Training
   * Constructing an enterprise-wide training plan
   * Protecting against social engineering
+  * **[SET Exercise/homework](./exercises/SET.md)**
   * Protecting against “Post-it note” style problems
   * **Project: Security Awareness and training plan**
 
