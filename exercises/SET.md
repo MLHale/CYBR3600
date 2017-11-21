@@ -18,10 +18,21 @@ Type
 ```docker pull mlhale/set```
 either in terminal (for docker community edition users) or in docker cli (for docker toolbox users)
 
+#### For those not using Docker
 If you did not install docker before, you can do it now, or you can install SET directly:
 - Install Metasploit. see: https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers
 - Install the Social Engineering Toolkit. see https://github.com/trustedsec/social-engineer-toolkit
 
+For UNIX users this translates to:
+```bash
+sudo apt-get install -y curl
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+  chmod 755 msfinstall && \
+  ./msfinstall
+apt-get --force-yes -y install git apache2 python-requests libapache2-mod-php \
+  python-pymssql build-essential python-pexpect python-pefile python-crypto python-openssl
+```
+### Running SET
 Once installed, you can invoke set from docker using the following command:
 ```bash
 docker run -it -p 8888:80 mlhale/set bash
