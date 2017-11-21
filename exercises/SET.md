@@ -21,7 +21,6 @@ either in terminal (for docker community edition users) or in docker cli (for do
 If you did not install docker before, you can do it now, or you can install SET directly:
 - Install Metasploit. see: https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers
 - Install the Social Engineering Toolkit. see https://github.com/trustedsec/social-engineer-toolkit
-http://www.computerweekly.com/tutorial/Social-Engineer-Toolkit-SET-tutorial-for-penetration-testers
 
 Once installed, you can invoke set from docker using the following command:
 ```bash
