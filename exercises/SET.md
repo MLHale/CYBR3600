@@ -7,14 +7,14 @@ This exercise is to explore the tools of the trade in social engineering attacks
 Thursday December 7th at 1:30pm.
 
 ## What is Due?
-You should install the Social Engineering Toolkit (SET), create a credential harvester, capture some (of your own) user data, create a phishing attack, link the credential harvester to the attack. For each task, take screenshots of your activities. 
+You should install the Social Engineering Toolkit (SET), create a credential harvester, capture some (of your own) user data, create a phishing attack, link the credential harvester to the attack. For each task, take screenshots of your activities.
 ## Ethics note
 It is absolutely **not ok** to attack anyone for any reason. Using this tool for any purpose other than your own education and training is strictly prohibited by the policies of this course and University as well as local, state, and federal law. The purpose of the exercise is for you to learn about adversary tactics so that you can counter them through policy, education, and training.
 
 ## Exercise 1 - Installing and running SET
 This part should be easy if you completed the XACML exercise.
 
-Type 
+Type
 ```docker pull mlhale/set```
 either in terminal (for docker community edition users) or in docker cli (for docker toolbox users)
 
@@ -57,4 +57,12 @@ For the credential harvester show that you cloned a site by showing its web addr
 Try out the phishing attack crafting feature. It is super easy to do. You can refer to this link for more information
 http://www.computerweekly.com/tutorial/Social-Engineer-Toolkit-SET-tutorial-for-penetration-testers
 
-## Exercise 4 - TBA in class next week
+## Exercise 4 - Exploring Phishy links and Phishy Email
+For this last part of our exploration of phishing, we are going to use some content that Dr. Robin Gandhi and I made. Visit: https://mlhale.github.io/nebraska-gencyber/teachers/phishing/ and go through the url analysis and email analysis modules.
+
+This is a good example of training and education materials that can help combat phishing attacks and spread awareness within an organization. `Gotcha hooks` are very effective for getting interested employees to care and consider the implications of their online actions.
+
+### Submit Screenshots
+For this task, take a screenshot of:
+ - you inspecting each link in your browser
+ - you inspecting an email header from your own inbox
