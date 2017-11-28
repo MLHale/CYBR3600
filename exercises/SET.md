@@ -58,7 +58,7 @@ Try out the phishing attack crafting feature. It is super easy to do. You can re
 [http://www.computerweekly.com/tutorial/Social-Engineer-Toolkit-SET-tutorial-for-penetration-testers](http://www.computerweekly.com/tutorial/Social-Engineer-Toolkit-SET-tutorial-for-penetration-testers)
 
 ## Exercise 4 - Exploring Phishy links and Phishy Email
-For this last part of our exploration of phishing, we are going to use some content that Dr. Robin Gandhi and I made. Visit: [https://mlhale.github.io/nebraska-gencyber/teachers/phishing/](https://mlhale.github.io/nebraska-gencyber/teachers/phishing/) and go through the url analysis and email analysis modules.
+For this last part of our exploration of phishing, we are going to use some content that Dr. Robin Gandhi and I made. Visit: [https://github.com/MLHale/nebraska-gencyber/tree/master/teachers/phishing](https://github.com/MLHale/nebraska-gencyber/tree/master/teachers/phishing) and go through the url analysis and email analysis modules.
 
 This is a good example of training and education materials that can help combat phishing attacks and spread awareness within an organization. `Gotcha hooks` are very effective for getting interested employees to care and consider the implications of their online actions.
 
