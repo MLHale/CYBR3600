@@ -107,7 +107,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Protecting against social engineering
   * **[SET Exercise/homework](./exercises/SET.md)**
   * Protecting against “Post-it note” style problems
-  * **Project: Security Awareness and training plan**
+  * [**Project: Security Awareness and training plan**](./homework/projects/project3.md)
 
 * **Final Exam**
 

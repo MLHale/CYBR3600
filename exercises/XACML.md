@@ -18,6 +18,8 @@ You have several options available. I prefer using docker, but you may install t
 If you want to use Docker, this is really easy (beware Windows users you can only use Docker community edition with Hyper-v):
 - Install docker https://www.docker.com/get-docker
 - Use the pre-built Wso2 container image: https://hub.docker.com/r/isim/wso2is/
+> for windows users not wishing to install Docker CE, consider installing [docker toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
+> in this case, you will also need to forward port 9443 from the container to the host. To do so, open virtual box, click settings, click network, click advanced, click port forwarding, and then forward port 9443 from guest to host, using 127.0.0.1 as the host ip.
 
 ```bash
 docker pull isim/wso2is
