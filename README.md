@@ -1,11 +1,9 @@
 ### Table of contents
-[Online discussion area](#online-discussion-area)
-[Location](#location)
-[Supplies](#supplies)
-[Projects](#projects)
-[Class topics](#class-topics)
-[Syllabus](#syllabus)
-[License](#license)
+[Online discussion area](#online-discussion-area)  
+[Location](#location)  
+[Class topics](#tentative-class-topics-and-course-overview)  
+[Syllabus](#syllabus)  
+[License](#license)  
 
 ## Viewing these materials
 The class materials are best viewed at [https://mlhale.github.io/CYBR3600/](https://mlhale.github.io/CYBR3600/)
@@ -26,8 +24,6 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)
 * [NIST SP 800-66](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-66r1.pdf)
 * Other Handouts TBA
-
-
 
 ## Tentative Class Topics and course overview
 * Introduction and Governance ([Lecture 1 Slides](./slides/lecture1.pdf))
