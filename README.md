@@ -106,7 +106,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * [**Project: Security Awareness and training plan**](./homework/projects/project3.md)
 
 * **Final Exam**
-  * **[Practice problems](./exercises/final-practice-problems.md)**
+  * **[Practice problems](./exercises/final-practice-problems.pdf)**
 
 ## Syllabus
 **Date/Time**: Tuesday/Thursday 1:30pm – 2:45pm
