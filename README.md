@@ -150,6 +150,9 @@ Students with disabilities requiring special accommodations must contact disabil
 ### Special accommodations for active duty or reserve military
 Students serving in the military requiring special accommodations (e.g. unit deployment) must contact the office of Military and Veteran Services by phone at (402) 554-2349 or by email at unovets@unomaha.edu.
 
+### Respect and Commitment to Diversity and Inclusion
+Students from all backgrounds and perspectives are respected in this course. Diverse viewpoints will be viewed as a resource, strength, and benefit to the course rather than a non-conformity. It is the intent of the instructor to conduct the course in a way that is respectful to students regardless of their race, color, ethnicity, national origin, sex, pregnancy, sexual orientation, gender identity, religion, disability, age, genetic information, veteran status, marital status, and/or political affiliation. Intolerance is interlorable and will not be tolerated by the instructor. Students are expected to treat their fellow students with respect. No question is a bad question and it is not acceptable to marginalize other students.
+
 ### Plagiarism
 The university policies on cheating and plagiarism apply in this course. Except on designated group work, the expectation is that every student will do their own work. Students under suspicion of plagiarism for individual assignment submitted materials will be given an opportunity to defend themselves. If after defense the instructor still believes the work to be plagiarized the department chair will be notified and the grade evaluation for the assignment will be lowered to a value between 50% and 0% at the discretion of the instructor. If a second occurrence of plagiarism occurs, the student will receive an F for the course and the registrar’s office will be notified that the student is not permitted to withdraw from the course. In addition the department chair and dean will be notified.
 
