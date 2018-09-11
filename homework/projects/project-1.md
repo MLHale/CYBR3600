@@ -1,5 +1,5 @@
 # CYBR3600 Homework 3: Policy Review and Analysis
-Due Date: Tue. 9/21/17 by Class time (1:30PM)
+Due Date: Friday 9/21/17 by 11:59PM
 
 ## Tasks
 
