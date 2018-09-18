@@ -59,6 +59,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Aligning Policy with regulations and standards
   * Overview of HIPAA, GLBA, SOX, FERPA
   * Focus on [FISMA](http://csrc.nist.gov/drivers/documents/FISMA-final.pdf)
+  * [Quiz 3](https://unomaha.az1.qualtrics.com/jfe/form/SV_8H6FgY0Flh0rRNX)
   * Security Control standards
     * [FIPS 199](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf)
     * [FIPS 200](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf)
@@ -66,7 +67,6 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
     * [NIST SP 800-53 ](https://csrc.nist.gov/publications/detail/sp/800-53/rev-4/final)
     * [National Vulnerability Database resources](https://nvd.nist.gov/other)
   * [NIST SP 800-66](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-66r1.pdf)
-  * [Quiz 3](https://unomaha.az1.qualtrics.com/jfe/form/SV_0oz0NLR5xXr7ZjL)
   * PCI DSS
   * COBIT 5
   * ISO 27002
