@@ -6,7 +6,7 @@ Presentations 10/11 and 10/16
 ## Overview
 In this project you will pick a company, identify its strategic goals and maturity, and then step through the FISMA/NIST certification process to examine a system for new acquisition. You will receive (lab) time in-class to work on your project and ask any questions you may have.
 
-As part of this assignment, you will *first pick a company (or create a fictional one)* and then *prepare a document* with the following structure:
+As part of this assignment, you will *first pick a company* and then *prepare a document* with the following structure:
 
 1. Strategic company information
 2. Company Maturity
