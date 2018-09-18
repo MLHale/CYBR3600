@@ -17,7 +17,7 @@ Each section is discussed in detail below.
 
 ### Strategic Company information
 #### Task
-The purpose of this part of the assignment is to identify important strategic information that guides how the company operations.
+The purpose of this part of the assignment is to identify important strategic information that guides how the company operates.
 
 #### Report Structure
 The `Strategic company information` section should contain the following:
