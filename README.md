@@ -54,7 +54,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Policy metrics and measurements
   * [Homework: Policy review and Analysis](./homework/projects/project-1.md)
 
-* U.S. Compliance Laws and Security Controls ([Lecture 5 Part 1 Slides](./slides/lecture5-1.pdf), [Lecture 5 Part 2 Slides](./slides/lecture5-2.pdf))
+* U.S. Compliance Laws and Security Controls ([Lecture 5 Part 1 Slides](./slides/lecture5-1.pdf), [Lecture 5 Part 2 Slides](./slides/lecture5-2.pdf), [Lecture 6 Slides](./slides/lecture6.pdf)
   * Policy concerns by security domain
   * Aligning Policy with regulations and standards
   * Overview of HIPAA, GLBA, SOX, FERPA
