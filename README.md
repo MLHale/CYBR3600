@@ -79,7 +79,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Select Security Controls
   * Assess information systems against selected controls
 
-* Formal methods for policy representation and certification ([Lecture 7 Slides](./slides/lecture7.pdf)
+* Formal methods for policy representation and certification ([Lecture 7 Slides](./slides/lecture7.pdf))
   * Propositional and First-order logic
   * Representing policies in first-order logic
   * Stating non-compliance formally
@@ -88,7 +88,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * State-based temporal models
   * Covert channels
   * Access Control Matrix
-
+  * Quiz on First-order Logic (paper handout)
 * **Certification Project Presentations**
 
 * Information Flow Control & Policy Composition ([Lecture 8 Slides](./slides/lecture-8.pdf), [Lecture 8 & 9 Slides](./slides/lecture9.pdf))
