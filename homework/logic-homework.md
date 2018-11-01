@@ -1,5 +1,5 @@
 # Logic Homework
-Due: October 30th @ class time (1:30PM)
+Due: November 1st @ class time (1:30PM)
 
 ## Exercise: Natural language to logic
 Convert each natural language sentence below to first-order logic.
