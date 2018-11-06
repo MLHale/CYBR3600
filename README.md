@@ -91,7 +91,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Quiz on First-order Logic (paper handout)
 * **Certification Project Presentations**
 
-* Information Flow Control & Policy Composition ([Lecture 8 Slides](./slides/lecture-8.pdf), [Lecture 8 & 9 Slides](./slides/lecture9.pdf))
+* Information Flow Control & Policy Composition ([Lecture 8-9 Slides](./slides/lecture-8-9.pdf))
   * Multi-domain policies
   * Dealing with third parties
   * Composable informal and formal policies
