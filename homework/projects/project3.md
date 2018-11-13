@@ -1,5 +1,5 @@
 # CYBR3600 Project 3: Creating a Training plan
-Due Date: Thursday 12/7/17 by Class time (1:30PM)  
+Due Date: Thursday 12/6 by Class time (1:30PM)  
 
 ## Overview
 In this short project you will create a training plan for employees at the company you selected/created in Project 2. The end result of your efforts will be an **employee training manual** that covers at least **3 security policy areas** (e.g. physical security, password policy, access control, backup, personal resource usage, etc) and **includes a 4th section on countering social engineering**.
