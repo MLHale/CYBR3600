@@ -4,7 +4,7 @@
 This exercise is to explore and practice using XACML in-class and as homework.
 
 ## Due Date
-TBA
+Friday November 30th (11:59 PM)
 
 ## What is Due?
 You should install Wso2 Identity Management Server and play around with XACML. For each exercise below, take screenshots to demonstrate that you have completed each of the steps below. You must submit the required screenshots to Canvas for full points.
