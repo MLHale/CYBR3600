@@ -106,6 +106,11 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
 
 * **Final Exam**
   * **[Practice problems](./exercises/final-practice-problems.pdf)**
+  * **50 HW Point Extra Credit Opportunity** (adds 50 points to your total homework subscore)
+   * Take part in an online cyber-training study by visiting ```cybertrust.mlhale.com/unostudy/<your firstname-lastname>``` 
+   > Example: cybertrust.mlhale.com/unostudy/matt-hale
+   * OR Do a project on security awareness and training plan creation. See [Project: Security Awareness and training plan](./homework/projects/project3.md)
+
 
 ## Syllabus
 **Date/Time**: Tuesday/Thursday 1:30pm – 2:45pm
