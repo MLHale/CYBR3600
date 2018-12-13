@@ -98,7 +98,7 @@ All classroom activities will take place in PKI room 252 unless otherwise noted 
   * Detecting policy constraint violations
   * **[XACML Exercise/homework](./exercises/XACML.md)**
 
-* Security Awareness and Training
+* Security Awareness and Training ([Lecture 10 Slides](./slides/lecture10.pdf))
   * Constructing an enterprise-wide training plan
   * Protecting against social engineering
   * **[SET Exercise/homework](./exercises/SET.md)**
